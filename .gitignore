@@ -1,2 +1,5 @@
 .idea/
 data/
+
+# Jupiter
+.ipynb_checkpoints/
