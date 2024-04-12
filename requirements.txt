@@ -1,4 +1,4 @@
 pandas
 numpy
-matplotlib_venn
+matplotlib-venn
 matplotlib
