@@ -3,3 +3,4 @@ numpy
 matplotlib-venn
 matplotlib
 seaborn
+plotly
