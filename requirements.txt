@@ -6,3 +6,4 @@ seaborn
 plotly
 db-sqlite3
 scipy
+openpyxl
