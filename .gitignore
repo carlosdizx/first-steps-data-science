@@ -3,3 +3,6 @@ data/
 
 # Jupiter
 .ipynb_checkpoints/
+
+# Databases
+**.db
