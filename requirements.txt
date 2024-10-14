@@ -8,3 +8,4 @@ db-sqlite3
 scipy
 openpyxl
 ipython-sql
+openai
