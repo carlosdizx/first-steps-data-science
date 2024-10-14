@@ -9,3 +9,4 @@ scipy
 openpyxl
 ipython-sql
 openai
+python-dotenv
