@@ -11,3 +11,4 @@ ipython-sql
 openai
 python-dotenv
 scikit-learn
+kagglehub
